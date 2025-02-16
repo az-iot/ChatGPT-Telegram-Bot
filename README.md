@@ -18,7 +18,7 @@
   </a>
 </p>
 
-ChatGPT Telegram Bot is a powerful Telegram bot that can use various mainstream large language model APIs, including GPT-3.5/4/4 Turbo/4o/o1, DALL·E 3, Claude2.1/3/3.5 API, Gemini 1.5 Pro/Flash, Vertex AI (Claude series/Gemini series), Groq Mixtral-8x7b/LLaMA2-70b, and DuckDuckGo (gpt-4o-mini, claude-3-haiku, Meta-Llama-3.1-70B, Mixtral-8x7B). It enables users to have efficient conversations and information searches on Telegram.
+AZ ChatGPT Telegram Bot is a powerful Telegram bot that can use various mainstream large language model APIs, including GPT-3.5/4/4 Turbo/4o/o1, DALL·E 3, Claude2.1/3/3.5 API, Gemini 1.5 Pro/Flash, Vertex AI (Claude series/Gemini series), Groq Mixtral-8x7b/LLaMA2-70b, and DuckDuckGo (gpt-4o-mini, claude-3-haiku, Meta-Llama-3.1-70B, Mixtral-8x7B). It enables users to have efficient conversations and information searches on Telegram.
 
 ## ✨ Features
 
